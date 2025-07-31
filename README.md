@@ -1,1 +1,1 @@
-# Bot-for-teh-college-website
+# Bot-for-the-college-website
